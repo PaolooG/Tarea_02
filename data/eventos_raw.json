@@ -1,0 +1,56 @@
+[
+    {
+        "tipo": "Policía",
+        "ubicacion": "Av. 5 de Abril, Pasaje Las Magnolias",
+        "timestamp": "2025-06-03T16:42:47.348374",
+        "comuna": "Santiago"
+    },
+    {
+        "tipo": "",
+        "ubicacion": "Desconocida",
+        "timestamp": "2025-06-03T16:42:55.404763",
+        "comuna": "Santiago"
+    },
+    {
+        "tipo": "",
+        "ubicacion": "Desconocida",
+        "timestamp": "2025-06-03T16:43:09.185198",
+        "comuna": "Santiago"
+    },
+    {
+        "tipo": "",
+        "ubicacion": "Desconocida",
+        "timestamp": "2025-06-03T16:43:22.956649",
+        "comuna": "Santiago"
+    },
+    {
+        "tipo": "Policía",
+        "ubicacion": "Arica",
+        "timestamp": "2025-06-03T16:43:36.745565",
+        "comuna": "Santiago"
+    },
+    {
+        "tipo": "Vía cerrada",
+        "ubicacion": "Iquique",
+        "timestamp": "2025-06-03T16:43:44.809233",
+        "comuna": "Santiago"
+    },
+    {
+        "tipo": "Vía cerrada",
+        "ubicacion": "Iquique",
+        "timestamp": "2025-06-03T16:43:52.719465",
+        "comuna": "Santiago"
+    },
+    {
+        "tipo": "Vía cerrada",
+        "ubicacion": "Iquique",
+        "timestamp": "2025-06-03T16:44:00.646771",
+        "comuna": "Santiago"
+    },
+    {
+        "tipo": "Vehículo detenido en la orilla",
+        "ubicacion": "Av. Santa Rosa",
+        "timestamp": "2025-06-03T16:44:08.603369",
+        "comuna": "Santiago"
+    }
+]
